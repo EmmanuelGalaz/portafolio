@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(245, 241, 225);
+}
+
+header{
+    background-image: url("/asset/img/header.png")
+   
+}
+#Hero-Section {
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;  
+}
+img{
+    width: 20 em;
+    height: 16 em;
+}
