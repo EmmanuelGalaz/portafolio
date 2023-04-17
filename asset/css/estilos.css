@@ -3,7 +3,7 @@ body{
 }
 
 header{
-    background-image: url("/asset/img/heder.png")
+    background-image: url("../img/heder.png")
    
 }
 #Hero-Section {
